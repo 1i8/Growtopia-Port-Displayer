@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "curlexample", "curlexample.vcxproj", "{4D0C420D-BAA1-4300-BC6D-5074309B4F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D0C420D-BAA1-4300-BC6D-5074309B4F9B}.Debug|x64.ActiveCfg = Debug|x64
+		{4D0C420D-BAA1-4300-BC6D-5074309B4F9B}.Debug|x64.Build.0 = Debug|x64
+		{4D0C420D-BAA1-4300-BC6D-5074309B4F9B}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D0C420D-BAA1-4300-BC6D-5074309B4F9B}.Debug|x86.Build.0 = Debug|Win32
+		{4D0C420D-BAA1-4300-BC6D-5074309B4F9B}.Release|x64.ActiveCfg = Release|x64
+		{4D0C420D-BAA1-4300-BC6D-5074309B4F9B}.Release|x64.Build.0 = Release|x64
+		{4D0C420D-BAA1-4300-BC6D-5074309B4F9B}.Release|x86.ActiveCfg = Release|Win32
+		{4D0C420D-BAA1-4300-BC6D-5074309B4F9B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBD137D6-46B6-4A61-9442-3F542E5E22FD}
+	EndGlobalSection
+EndGlobal
